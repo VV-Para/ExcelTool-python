@@ -10,7 +10,7 @@
 
 import sys
 import importlib
-importlib.reload(sys)
+import lib.reload(sys)
 
 import numpy as np
 import pandas as pd
